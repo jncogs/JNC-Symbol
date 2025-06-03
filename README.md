@@ -22,7 +22,7 @@ This plug-in is written in Vectorscript (Pascal) and can be used in any version 
 1. [Supplemental commands](#supplemental-commands)
     1. [Convert to JNC-Symbol](#convert-to-jnc-symbol)
     1. [Refresh All JNC-Symbols](#refresh-all-jnc-symbols)
-1. [Worksheet Symbol Counting Example](#working-with-workheet-symbol-counting)
+1. [Worksheet Symbol Counting Example](#worksheet-symbol-counting-example)
 1. [Overriding Symbol Attributes Example](#overriding-symbol-attributes-example)
 1. [Tips and Tricks](#tips-and-tricks)
 1. [Installation Instructions](#installation-instructions)
