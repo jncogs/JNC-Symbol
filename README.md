@@ -236,10 +236,14 @@ The categories for this plug-in are as follows:
 | Date Logged | Bug |
 | :---: | :--- |
 | 06/02/2025 | Embedded symbols will not orient properly when mirrored |
+| 06/07/2025 | Some 3D geometry does not scale properly |
 
 ## Feature Requests
 
-No current Feature Requests
+### JNC-Symbol PIO
+| Date Logged | Request |
+| :---: | :--- |
+| 06/18/2025 | Add an option to change internal geometry class to match PIO class |
 
 ## License
 
